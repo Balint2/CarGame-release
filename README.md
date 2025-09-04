@@ -64,8 +64,8 @@
   </p>
 </section>
 
-    <section>
-<h2 id="development">Development journey</h2>
+<section>
+  <h2 id="development">Development journey</h2>
 
   <p>
     The game was primarily developed in <strong>Unity</strong>, while the backend was built using
