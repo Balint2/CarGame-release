@@ -34,7 +34,7 @@
 </section>
 
 <section>
-  <h2 id="download">Download the Game</h2>
+  <h2 id="download">Play on the website</h2>
 
   <p>
     If you want to try but don't want to download:
