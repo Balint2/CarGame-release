@@ -37,6 +37,21 @@
   <h2 id="download">Download the Game</h2>
 
   <p>
+    If you want to try but don't want to download:
+  </p>
+
+  <p>
+  <a href="https://balint2cargame.xyz" target="_blank" rel="noopener noreferrer" class="download-btn">
+    Play on the website
+  </a>
+  </p>
+</section>
+
+
+<section>
+  <h2 id="download">Download the Game</h2>
+
+  <p>
     If you would like to enjoy the full experience with smoother performance and enhanced graphics,
     you can download the <strong>PC version</strong> of the game.  
     Simply click the link below to get started:
@@ -47,7 +62,7 @@
     Download for PC
   </a>
   </p>
-    </section>
+</section>
 
     <section>
 <h2 id="development">Development journey</h2>
