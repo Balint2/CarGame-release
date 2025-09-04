@@ -24,16 +24,17 @@
     be able to challenge friends head-to-head. Stay tuned for updates and thanks for playing!
   </p>
 
-    <p>
+  <p>
     The game is available in both <strong>Web</strong> and <strong>PC</strong> versions.
     The web version runs directly in your browser without any download required, making it
     the fastest way to jump in and start playing right here on the site.  
     The PC version, however, offers smoother performance and enhanced graphics.  
     A download link for the PC version is also provided here on the site.
   </p>
-    </section>
+</section>
 
-    <h2 id="download">Download the Game</h2>
+<section>
+  <h2 id="download">Download the Game</h2>
 
   <p>
     If you would like to enjoy the full experience with smoother performance and enhanced graphics,
@@ -80,4 +81,4 @@
     Finally, as I continue to work on the <strong>PvP mode</strong>, I am gaining valuable
     experience in <strong>real-time communication</strong>. This ongoing challenge keeps the project fresh and exciting.
   </p>
-    </section>
+</section>
