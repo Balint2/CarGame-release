@@ -19,10 +19,6 @@
     so other players can try them out — and you can play, rate, and review levels made by others.
   </p>
 
-  <p>
-    Looking for friendly competition? A PvP mode is currently in development so you’ll soon
-    be able to challenge friends head-to-head. Stay tuned for updates and thanks for playing!
-  </p>
 
   <p>
     The game is available in both <strong>Web</strong> and <strong>PC</strong> versions.
