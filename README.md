@@ -88,8 +88,4 @@
     project both challenging and highly educational.
   </p>
 
-  <p>
-    Finally, as I continue to work on the <strong>PvP mode</strong>, I am gaining valuable
-    experience in <strong>real-time communication</strong>. This ongoing challenge keeps the project fresh and exciting.
-  </p>
 </section>
